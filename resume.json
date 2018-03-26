@@ -1,0 +1,207 @@
+﻿{
+  "basics": {
+    "name": "Vladislav Rykov",
+    "label": "Computer Engineer & System Programmer",
+    "picture": "https://s14.postimg.org/w9c67bu5d/image.png",
+    "email": "vladislavrykov@hotmail.com",
+    "phone": "(34) 642-411-134",
+    "website": "https://docs.google.com/uc?id=1DprQnTZvKj__imNVIoFeXrzwA-bNTlaO",
+    "summary": "I'm coming originally from Russia. I have earned degree from Lipetsk State Technical University in Mechanical Engineering and go in one step of achieving degree from University of Jaume I in Computer Engineering. During my academic years I have undersood that mathematics and IT were objects of my passion and delivered myself wholly to projects presented in the university during this period. While my inerests focus on applied computer engineering, mostly programming embedded systems and their connection to Java apps and other platforms, my non-work interests range widely, everything from quantum computing to entrepreneurship and startups.  ",
+    "location": {
+      "address": "c./ Huesca 4, 3-7",
+      "postalCode": "46520",
+      "city": "Puerto de Sagunto, Valencia",
+      "countryCode": "SP",
+      "region": "Valencia Community"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Vladislav Rykov",
+        "url": "https://www.linkedin.com/in/vladislav-rykov-755297147/"
+      },
+      {
+        "network": "Github",
+        "username": "vladislavo",
+        "url": "https://github.com/Vladislavo"
+      },
+      {
+        "network": "Telegram",
+        "username": "@vykov",
+        "url": "https://t.me/vrykov"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [
+    {
+      "organization": "Association of Health and Education",
+      "position": "Health Promoter",
+      "website": "http://www.aes-es.org/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-09-01",
+      "summary": "Public and private talks about different aspects of healthy lifestyle:",
+      "highlights": [
+        "Nutrition",
+        "Physical exercises",
+        "Detox"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lipetsk State Technical University",
+      "area": " Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2012-06-01",
+      "gpa": "80.5/100.0",
+      "courses": [
+        "Technology of Machine Building",
+        "Fundamentals of Scientific Research"
+      ]
+    },
+    {
+      "institution": "University of Malaga",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2017-06-01",
+      "gpa": "8.65/10.0",
+      "courses": [
+        "Real Time Systems",
+        "Embedded Systems Programming",
+        "Design of Operating Systems"
+      ]
+    },
+    {
+      "institution": "University of Jaume I",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-01",
+      "endDate": "",
+      "gpa": "8.69/10.0",
+      "courses": [
+        "Networks and Mobile Devices",
+        "Security in Information Technology",
+        "Distributed Systems"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best student of the year",
+      "date": "2017-12-01",
+      "awarder": "University of Malaga, University of Jaume I",
+      "summary": "Introduction to Information Technology, Object Oriented Programming, Statistics in Computer Science, Data Structures, Introduction to Computer Networks, Distributed Systems, Algorithmy, Intelligent Systems, Arquitechture of WSCs, Real Time Systems, Circuits and Systems, Introduction to Big Data"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Context Similarity: Paradigmatic relations",
+      "publisher": "",
+      "releaseDate": "2017-06-06",
+      "website": "https://vladislavo.github.io/",
+      "summary": "Discovering paradigmatic relations using statistical methods and natural language processing."
+    }
+  ],
+  "skills": [
+    {
+      "name": "System Programming",
+      "level": "High",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Renesas",
+        "RTOS",
+        "Arduino",
+        "Raspberry Pi",
+        "ARM"
+      ]
+    },
+    {
+      "name": "Web Services",
+      "level": "High",
+      "keywords": [
+        "Sockets",
+        "RMI",
+        "REST",
+        "Servlets",
+        "HTTP"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "High",
+      "keywords": [
+        "Linux",
+        "Linux Driver Programming",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "High",
+      "keywords": [
+        "Oracle",
+        "MySQL/PostgreSQL",
+        "Firebase Database"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "High",
+      "keywords": [
+        "Cisco CCNA",
+        "Cisco Routing & Switching",
+        "VPN",
+        "VLAN",
+        "TCP/IP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Bible",
+      "keywords": [
+        "Daniel",
+        "Apocalipsis"
+      ]
+    },
+    {
+      "name": "Personal Development",
+      "keywords": [
+        "Education",
+        "Psychology",
+        "Health",
+        "Public Speaking",
+        "Continuous Development & Growth"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": " Andres Gongora, Ph.D Student in Mechatronics, University of Malaga",
+      "reference": "I had the pleasure of having Vladislav as a student in Real Time Systems at the University of Malaga. He is one of those people who takes nothing for granted in theory, and wants to experiment it himself to come up with new solutions. In this regard, he is still on its way to become an engineer, but he has a huge potential . Truly an out of the box thinker."
+    },
+    {
+      "name": "Luis A. García Fernández, Ph.D, Universitat Jaume I de Castellón",
+      "reference": "Por la presente nota quiero hacer constar que el alumno Vladislav Rykov ha cursado y superado con excelente actitud y aptitud la asignatura \"Sistemas Distribuidos\" de tercer curso del grado de Ingeniería Informática. En esta asignatura se imparten y exigen conocimientos en distintas alternativas metodológicas y de programación en arquitecturas C/S (y en menor grado P2P). Para conseguir este objetivo los alumnos han de desarrollar código utilizando diversas APIs (Sockets, RMI, Servlets, Jax_rs, XML, XML Schema, Swing,). La asignatura requiere una dedicación constante y exigente a lo largo del curso.  El alumno Vladislav Rykov realizó un excelente trabajo durante el curso y demostró una gran capacidad de gestionar su tiempo, coordinarse con compañeros para resolver problemas y entregas, proporcionar resultados de gran calidad  y saber explicar con solvencia los motivos de cada decisión programada o propuesta.  El alumno Vladislav Rykov es de los tres mejores alumnos que he tenido este curso. En función de mi experiencia con Vladislav considero que es capaz de trabajar y proporcionar buenos resultados en cualquier campo tecnológico relacionado con la Informática y las comunicaciones.  Para que así conste,  Dr. Luis A. García Fernández Profesor de la asignatura troncal \"Sistemas Distribuidos\" Grado de Ingeniería Informática Departamento Ingeniería y Ciencia de los Computadores Universitat Jaume I de Castellón."
+    }
+  ]
+}
